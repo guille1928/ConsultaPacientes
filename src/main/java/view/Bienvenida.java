@@ -22,7 +22,7 @@ public class Bienvenida extends Ventana{
 
 	//creo esta clase para mostrar una ventana de bienvenida al usuario a nuestra apliacion 
 
-	
+	//prueba de comentario en bienvenida 
 
 	public Bienvenida() {
 		//creamos las caracterias de la ventana
