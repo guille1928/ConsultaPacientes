@@ -1,4 +1,4 @@
-# Proyecto Consulta
+# Proyecto Consulta de pacientes
 Bienvenido al proyecto para gestionar una consulta de pacientes
 
 # Descripción
@@ -25,3 +25,5 @@ Para poder ejecutar este programa tienes que instalar los siguientes librerías:
 
 
 
+# Autor
+    Guillermo Tardón
